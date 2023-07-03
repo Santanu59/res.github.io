@@ -17,9 +17,9 @@
     text-shadow: 1px 3px 3px;
     font-size: 50px;
 }
-.cont .head span{
+/* .cont .head span{
     color: rgb(158, 0, 250);
-}
+} */
 .cont .box-cont{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(285px,1fr));
